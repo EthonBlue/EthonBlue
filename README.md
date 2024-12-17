@@ -1,12 +1,12 @@
 👋 Hi, I’m @EthonBlue
-👀 I’m interested in creating clean, responsive, and user-friendly websites as I grow my skills in frontend development.
+👀 I’m interested in building responsive, user-friendly, and modern websites. I focus on both front-end development and exploring full-stack technologies.
 
 🌱 I’m currently learning:
 
-HTML, CSS, and JavaScript to build beautiful web interfaces.
-Responsive design with frameworks like Bootstrap and Tailwind CSS.
-Basic JavaScript DOM manipulation to add interactivity.
-💞️ I’m looking to collaborate on beginner-friendly web development projects where I can contribute and learn more.
+React.js for front-end development.
+Node.js & Express.js for back-end development.
+Deepening my understanding of web APIs and modern JavaScript (ES6+).
+💞️ I’m looking to collaborate on exciting web development projects, open-source contributions, and building real-world applications.
 
 📫 How to reach me:
 
@@ -15,33 +15,23 @@ LinkedIn: www.linkedin.com/in/mercyokwong
 
 😄 Pronouns: She/Her
 
-⚡ Fun fact: I love solving coding challenges and experimenting with web designs to see how far my creativity can go.
+⚡ Fun fact: I believe coding is like solving puzzles – the more challenging, the more exciting! 🎯
 
-🛠️ Tech Stack (What I’m Learning)
-Languages: HTML, CSS, JavaScript.
-Tools: VS Code, Git, GitHub.
-Frameworks (Basics): Bootstrap, Tailwind CSS.
-🚀 Projects (My Small Steps)
-Here are a few beginner projects I’ve worked on so far:
+🛠️ Tech Stack
+Languages: HTML, CSS, JavaScript (ES6+).
+Frameworks/Libraries: React.js, Bootstrap, Tailwind CSS.
+Tools: Git, GitHub, VS Code, Node.js.
+Learning: Express.js, MongoDB, APIs.
 
-Simple Portfolio Website: A clean, responsive webpage showcasing my learning journey.
-To-Do App: A small app to practice JavaScript functionality and DOM manipulation.
-Responsive Landing Page: Designed using HTML, CSS, and Bootstrap for responsiveness.
-Note: I’m constantly improving and excited to build more projects as I learn. 🚀
+🚀 Projects
+Here are a few projects I’ve worked on:
+
+Responsive Portfolio Website: A clean, modern portfolio built with HTML, CSS, and JavaScript.
+To-Do App: A to-do list with interactive UI and persistent storage.
+Weather App: Fetches real-time weather data from an API.
+Feel free to check out my repositories for more!
 
 🎯 Goals
-Master the fundamentals of frontend development.
-Build real-world projects to strengthen my skills.
-Learn a frontend framework like React.js soon.
-
-📚 Learning Resources I’m Using
-freeCodeCamp
-The Odin Project
-MDN Web Docs
-
-I’m excited about this journey and open to any feedback or collaboration that helps me grow! 🌟
-
-<!---
-EthonBlue/EthonBlue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Build scalable and accessible web applications.
+Contribute to open-source projects.
+Learn and grow as a full-stack developer.
